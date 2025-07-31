@@ -3,7 +3,7 @@
   "displayName": "Genius Dark Theme",
   "description": "A beautiful dark theme for Visual Studio Code with carefully crafted colors for optimal coding experience",
   "version": "0.0.1",
-  "publisher": "Jeferson Quiguantar",
+  "publisher": "jeferson-quiguantar",
   "author": {
     "name": "Jeferson Quiguantar",
     "email": "jeffersonquiguantar@gmail.com"
@@ -12,9 +12,9 @@
     "type": "git",
     "url": "https://github.com/jefersonqui-dev/Genius-Extension.git"
   },
-  
+  "homepage": "https://github.com/jefersonqui-dev/Genius-Extension#readme",
   "bugs": {
-    
+    "url": "https://github.com/jefersonqui-dev/Genius-Extension/issues"
   },
   "keywords": [
     "theme",
