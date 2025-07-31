@@ -1,8 +1,30 @@
 {
   "name": "genius",
-  "displayName": "genius",
-  "description": "dark-theme",
+  "displayName": "Genius Dark Theme",
+  "description": "A beautiful dark theme for Visual Studio Code with carefully crafted colors for optimal coding experience",
   "version": "0.0.1",
+  "publisher": "Jeferson Quiguantar",
+  "author": {
+    "name": "Jeferson Quiguantar",
+    "email": "jeffersonquiguantar@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jefersonqui-dev/Genius-Extension.git"
+  },
+  
+  "bugs": {
+    
+  },
+  "keywords": [
+    "theme",
+    "dark",
+    "genius",
+    "color-scheme",
+    "vscode-theme",
+    "cursor-theme"
+  ],
+  "license": "MIT",
   "engines": {
     "vscode": "^1.102.0"
   },
@@ -17,5 +39,8 @@
         "path": "./themes/Genius-color-theme.json"
       }
     ]
+  },
+  "social": {
+    "instagram": "https://www.instagram.com/jqc___a/"
   }
 }
