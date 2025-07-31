@@ -3,7 +3,7 @@
 A beautiful dark theme for Visual Studio Code with carefully crafted colors for optimal coding experience.
 
 ![Genius Theme Preview](https://img.shields.io/badge/Theme-Genius%20Dark-blue?style=for-the-badge&logo=visualstudiocode)
-![Version](https://img.shields.io/badge/Version-0.0.1-green?style=for-the-badge)
+![Version](https://img.shields.io/badge/Version-0.0.3-green?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
 
 ## ✨ Features
@@ -14,33 +14,43 @@ A beautiful dark theme for Visual Studio Code with carefully crafted colors for 
 - **Multiple Language Support**: Optimized for various programming languages
 - **Accessibility**: High contrast ratios for better visibility
 
+## 🖼️ Theme Preview
+
+<p align="center">
+  <img src="icon/Muestra.png" alt="Genius Dark Theme - Code Preview in Cursor Editor" width="800" style="border-radius: 8px; box-shadow: 0 6px 14px rgba(0,0,0,0.5);">
+</p>
+
+_✨ **Genius Dark Theme** running in Vscode and Cursor - Experience the perfect balance of contrast and readability for your coding sessions_
+
 ## 🎨 Color Palette
 
 The Genius theme features a carefully selected color palette:
 
-| Element | Color | Hex Code |
-|---------|-------|----------|
-| Background | Dark Blue | `#010409` |
-| Foreground | Cyan | `#9aeaed` |
-| Accent | Orange | `#ffcc66` |
-| Keywords | Green | `#99ff00` |
-| Strings | Blue | `#51adc9` |
-| Functions | Light Blue | `#82AAFF` |
-| Classes | Yellow | `#FFCB6B` |
-| Comments | Gray | `#546E7A` |
+| Element    | Color      | Hex Code  |
+| ---------- | ---------- | --------- |
+| Background | Dark Blue  | `#010409` |
+| Foreground | Cyan       | `#9aeaed` |
+| Accent     | Orange     | `#ffcc66` |
+| Keywords   | Green      | `#99ff00` |
+| Strings    | Blue       | `#51adc9` |
+| Functions  | Light Blue | `#82AAFF` |
+| Classes    | Yellow     | `#FFCB6B` |
+| Comments   | Gray       | `#546E7A` |
 
 ### Sample Code Colors
 
 ```javascript
 // Comments are styled in gray
 const variable = "#3b95e4"; // Variables in blue
-function example() { // Functions in light blue
-    return "strings in cyan"; // Strings in blue
+function example() {
+  // Functions in light blue
+  return "strings in cyan"; // Strings in blue
 }
-class MyClass { // Classes in yellow
-    constructor() {
-        this.property = true; // Keywords in green
-    }
+class MyClass {
+  // Classes in yellow
+  constructor() {
+    this.property = true; // Keywords in green
+  }
 }
 ```
 
@@ -76,12 +86,14 @@ class MyClass { // Classes in yellow
 ### Local Development
 
 1. Clone the repository:
+
    ```bash
    git clone https://github.com/jefersonqui-dev/Genius-Extension.git
    cd Genius-Extension
    ```
 
 2. Open the project in VS Code:
+
    ```bash
    code .
    ```
@@ -148,7 +160,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Jeferson Quiguantar**
 
 - Email: jeffersonquiguantar@gmail.com
-- Instagram: [@jqc___a](https://www.instagram.com/jqc___a/)
+- Instagram: [@jqc\_\_\_a](https://www.instagram.com/jqc___a/)
 - GitHub: [jefersonqui-dev](https://github.com/jefersonqui-dev)
 
 ## 🐛 Issues & Feedback
@@ -172,4 +184,4 @@ If you like this theme, please consider:
 
 **Made with ❤️ for the developer community**
 
-*Enjoy coding with Genius! 🧠✨*
+_Enjoy coding with Genius! 🧠✨_
