@@ -2,7 +2,7 @@
 	"name": "Genius",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#0104098f",
+		"editor.background": "#01040954",
 		"sideBar.background": "#010409",
 		"editor.foreground": "#9aeaed",
 		"activityBarBadge.background": "#021a2a",
