@@ -1,0 +1,21 @@
+{
+  "name": "genius",
+  "displayName": "genius",
+  "description": "dark-theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.102.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Genius",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Genius-color-theme.json"
+      }
+    ]
+  }
+}
