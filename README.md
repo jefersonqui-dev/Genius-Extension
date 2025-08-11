@@ -1,3 +1,6 @@
+<p> 
+  <img width="1536" height="1024" alt="ChatGPT Image 10 ago 2025, 07_27_49 p m" src="https://github.com/user-attachments/assets/429ecfee-8df5-48a1-81d5-a2c5789b23ba" />
+  <p/>
 # 🧠 Genius Dark Theme
 
 A beautiful dark theme for Visual Studio Code with carefully crafted colors for optimal coding experience.
