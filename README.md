@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="icon/banner.png" alt="Genius Dark Theme Banner" width="100%">
+</p>
+
 # 🧠 Genius Dark Theme
 
 A beautiful dark theme for Visual Studio Code with carefully crafted colors for optimal coding experience.
